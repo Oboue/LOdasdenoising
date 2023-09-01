@@ -1,7 +1,9 @@
 # LOdasdenoising
 The LOdasdenoising  package stores the reproducible and open-access scripts for protecting the weak signals in distributed acoustic sensing data processing using local orthogonalization (LO).
-The proposed package contains 7 testing script to demonstrate the effectiveness of the proposed LO method
 # Script description
+
+The LOdasdenoising package contains 7 testing script to demonstrate the effectiveness of the proposed LO method
+
 test_figs1_4_5.m is used to plot Figures 1, 4 and 5.
 
 test_figs6_8.m is used to plot Figures 6, 7 and 8.
